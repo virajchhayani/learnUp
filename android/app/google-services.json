@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "797691888872",
+    "project_id": "learn-up-530c9",
+    "storage_bucket": "learn-up-530c9.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:797691888872:android:0b078b66a1736639c9f55d",
+        "android_client_info": {
+          "package_name": "com.example.learnup"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAe4X7FnfFUihMYVgshf2rNI1GeJK8FKd0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
